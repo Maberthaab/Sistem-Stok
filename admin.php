@@ -1,7 +1,4 @@
 <?php
-//if(empty($_SESSION['username'])){
-//    echo "Not found!";
-//} else {
     switch ($_GET['act']) {
     // PROSES VIEW DATA USER //      
       case 'view':
